@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ib_view_flipper"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <include
+        android:id="@+id/item_basket_front"
+        layout="@layout/item_basket_front" />
+
+    <include
+        android:id="@+id/item_basket_back"
+        layout="@layout/item_basket_back" />
+
+</ViewFlipper>

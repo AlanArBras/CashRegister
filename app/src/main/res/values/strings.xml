@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common ressources -->
+    <string name="app_name">Cash Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="euro_product">&#x20AC;&#160;-&#160;</string>
+    <string name="euro_basket">&#x20AC;</string>
+
+    <!-- ********* -->
+    <!-- Home page -->
+    <!-- ********* -->
+    <string name="hpl_tv_available_products">Produits disponibles</string>
+    <string name="hbl_tv_basket_products">Commande en cours</string>
+
+
+    <!-- Product -->
+    <string name="product_pictures_content_desc">Image du produit</string>
+    <string name="ipl_available">&#160;disponible(s)</string>
+    <string name="ibf_quantity">Quantité:&#160;</string>
+
+    <!-- Basket -->
+    <string name="ibb_quantity">Quantité ?</string>
+    <string name="ibb_less">-</string>
+    <string name="ibb_more">+</string>
+
+    <!-- Alert dialogs -->
+    <string name="alert_delete_confirm_title">Suppression</string>
+    <string name="alert_delete_confirm_text">Supprimer ce produit de votre panier?</string>
+    <string name="alert_max_quantity_title">Stock insuffisant</string>
+    <string name="alert_max_quantity_text">Vous ne pouvez pas prendre plus de ce produit.</string>
+
+    <!-- Administration page -->
+    <string name="fa_tv_admin">Configuration</string>
+</resources>
